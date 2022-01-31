@@ -1,0 +1,15 @@
+0  : black
+1  : dark blue
+2  : dark green
+3  : light blue
+4  : red
+5  : purple
+6  : yellow
+7  : silver
+8  : grey
+9  : light blue
+10 : light green
+11 : cyan
+12 : light red
+14 : light yellow
+15 : white

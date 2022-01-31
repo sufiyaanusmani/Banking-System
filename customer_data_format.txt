@@ -1,0 +1,2 @@
+000000 Sufiyaan        Usmani          18 03363778582 0 12345678901234567890 password
+acc no first name      last name      age phone no      accblocked or not   
